@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2e5836da85b0c7c49a2eadc8284c725c
+labels:
+- gvh
+- gvh_version-0.0.0
+- gvhp_exportpath-GoogleMaps/Examples/SharedAssets/Scripts/CameraController.cs
+timeCreated: 1490757262
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon:
+    instanceID: 0
+  userData:
+  assetBundleName:
+  assetBundleVariant:

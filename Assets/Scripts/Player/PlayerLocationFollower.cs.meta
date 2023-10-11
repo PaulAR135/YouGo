@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4edf3fee3338da9419b59b78444c6f1f
+labels:
+- gvh
+- gvh_version-0.0.0
+- gvhp_exportpath-GoogleMaps/Examples/04_Advanced/Miscellaneous/Scripts/LocationFollower.cs
+timeCreated: 1519876880
+licenseType: Pro
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon:
+    instanceID: 0
+  userData:
+  assetBundleName:
+  assetBundleVariant:
